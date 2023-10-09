@@ -20,3 +20,9 @@ answer the questions and create SVG
 
 # Example Output:
 ![image](https://github.com/AyushManiSharma/SVG-Logo-Maker/assets/22526788/a7ea68a8-4e9d-4973-88d1-ccbef5be760b)
+
+# Video:
+
+
+https://github.com/AyushManiSharma/SVG-Logo-Maker/assets/22526788/41c25f65-24ea-44d9-96ba-cdea539895d6
+
